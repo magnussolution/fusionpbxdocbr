@@ -662,11 +662,17 @@
 	"expanded_folders":
 	[
 		"/Library/WebServer/Documents/fusionpbx-docs-master",
-		"/Library/WebServer/Documents/fusionpbx-docs-master/source"
+		"/Library/WebServer/Documents/fusionpbx-docs-master/source",
+		"/Library/WebServer/Documents/fusionpbx-docs-master/source/getting_started"
 	],
 	"file_history":
 	[
+		"/Library/WebServer/Documents/fusionpbx-docs-master/source/getting_started/security.rst",
+		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/4f1a8445-ee5f-4671-94d0-e5ba8e292894/root/.bash_history",
+		"/Library/WebServer/Documents/fusionpbx-docs-master/source/firewall.rst",
+		"/Library/WebServer/Documents/fusionpbx-docs-master/source/getting_started.rst",
 		"/Library/WebServer/Documents/fusionpbx-docs-master/source/index.rst",
+		"/Library/WebServer/Documents/fusionpbx-docs-master/Makefile",
 		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/abeba5cc-aa20-4524-bd44-e8f156816707/root/html/fusionpbx/support.php",
 		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/abeba5cc-aa20-4524-bd44-e8f156816707/root/html/fusionpbx/providers.php",
 		"/private/var/folders/t9/9c4nn_g96z71hm1rrhsb0x900000gn/T/abeba5cc-aa20-4524-bd44-e8f156816707/root/html/fusionpbx/contribute.php",
@@ -788,22 +794,18 @@
 		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/refillprovider/List.js",
 		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/refillprovider/Module.js",
 		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/restrictedPhonenumber/Controller.js",
-		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/restrictedPhonenumber/Form.js",
-		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/restrictedPhonenumber/ImportCsv.js",
-		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/restrictedPhonenumber/List.js",
-		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/restrictedPhonenumber/Module.js",
-		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/servers/Controller.js",
-		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/servers/Form.js"
+		"/Library/WebServer/Documents/Mbilling_6/classic/src/view/restrictedPhonenumber/Form.js"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
 		"height": 102.0,
 		"where_history":
 		[
+			"/Library/WebServer/Documents/fusionpbx-docs-master",
 			"/Library/WebServer/Documents/MBilling_6/protected/controllers",
 			"/Library/WebServer/Documents/MBilling_6/protected",
 			"/Library/WebServer/Documents/MBilling_6/protected/components",
@@ -930,8 +932,7 @@
 			"/Library/WebServer/Documents/Mbilling_6/classic,/Library/WebServer/Documents/MBilling_6/modern",
 			"/Library/WebServer/Documents/Mbilling_6/classic,/Library/WebServer/Documents/MBilling_6/app",
 			"/Library/WebServer/Documents/Mbilling_6/classic,/Library/WebServer/Documents/MBilling_6/ext/classic",
-			"/Library/WebServer/Documents/Mbilling_6/classic,/Library/WebServer/Documents/MBilling_6/packages",
-			"/Library/WebServer/Documents/Mbilling_6/classic,/Library/WebServer/Documents/MBilling_6/packeges"
+			"/Library/WebServer/Documents/Mbilling_6/classic,/Library/WebServer/Documents/MBilling_6/packages"
 		]
 	},
 	"find_state":
@@ -939,6 +940,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"firew",
+			"firewall",
+			"php",
+			"FusionPBX funcoes",
+			"iptables -",
+			":maxdepth: 2",
+			":maxdepth: 1",
+			"menu",
+			"https://www.youtube.com/playlist?list=PLrhVQpI_CtOwQNB_lsNIxrl9SOAuo9ZSF",
+			"https://freeswitch.org",
 			"addphone",
 			"manual-redirect",
 			"181.215.154.208",
@@ -1056,17 +1067,7 @@
 			"language",
 			"textButtonUpdateLot",
 			"widthButtonCsv",
-			"textButtonCsv",
-			"head",
-			"'menu'",
-			"menu",
-			"calllimit",
-			"Send Congestion user cal",
-			"getDirectoryDiskSpaceUsed",
-			"UserDiskSpace",
-			"mix_monitor_format",
-			"executePlayAudio",
-			"prompt"
+			"textButtonCsv"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1074,6 +1075,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"| ``iptables",
 			"actionRead($asJson = true, $condition = NULL)",
 			"/var/www/tmpmagnus/",
 			"'2017-07-27 11:18:00'",
@@ -1200,8 +1202,7 @@
 			"Yii::app()->session['id_user']",
 			"Yii::app()->session['user_type']",
 			"Yii::app()->session['isAdmin']",
-			"Yii::app()->session['isClient']",
-			"Yii::app()->session['user_type']"
+			"Yii::app()->session['isClient']"
 		],
 		"reverse": false,
 		"show_context": false,
@@ -1272,7 +1273,7 @@
 	"project": "FusionPBXDoc.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":

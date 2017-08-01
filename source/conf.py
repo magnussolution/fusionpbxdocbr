@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'FusionPBX Docs'
-copyright = u'2008-2017, Mark J Crane'
+copyright = u'2008-2017, Adilson Leffa Magnus'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -203,7 +203,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'FusionPBXDocs.tex', u'FusionPBX Documentation',
-   u'Mark J Crane', 'manual'),
+   u'Adilson Leffa Magnus', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -233,7 +233,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'fusionpbxdocs', u'FusionPBX Documentation',
-     [u'Mark J Crane'], 1)
+     [u'Adilson Leffa Magnus'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -247,7 +247,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'FusionPBXDocs', u'FusionPBX Documentation',
-   u'Mark J Crane', 'FusionPBXDocs', 'One line description of project.',
+   u'Adilson Leffa Magnus', 'FusionPBXDocs', 'One line description of project.',
    'Miscellaneous'),
 ]
 

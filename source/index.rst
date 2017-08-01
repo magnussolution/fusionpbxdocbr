@@ -93,6 +93,7 @@ Our Ecosystem
    home.rst
    accounts.rst
    dialplan.rst
+   portabilidade.rst
    applications.rst
    status.rst
    advanced.rst
